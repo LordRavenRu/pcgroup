@@ -26,6 +26,6 @@
 	  <language tag="ru-RU">ru-RU.plg_payplans_pcgroup.sys.ini</language>
 	</languages>
 	<updateservers>
-    <server type="extension" name="pcgroup">https://raw.githubusercontent.com/LordRavenRu/pcgroup/refs/tags/master/pcgroup.xml</server>
+    <server type="extension" name="pcgroup">https://raw.githubusercontent.com/LordRavenRu/pcgroup/refs/heads/main/pcgroup.xml</server>
   </updateservers>
 </extension>
