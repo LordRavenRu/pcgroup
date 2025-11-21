@@ -1,0 +1,6 @@
+{
+	"name": "Phoca Cart clients group",
+	"element": "pcgroup",
+	"description": "Assign users to Phoca Cart clients group when they purchased a specific plan in PayPlans.",
+	"documentation": "https://blog.lordraven.ru/index.php/blog/plagin-phoca-cart-group-assignment-for-stackideas-payplans"
+}

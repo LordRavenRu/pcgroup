@@ -1,0 +1,15 @@
+[
+	{
+		"key": "app_params",
+		"items": [
+			{
+				"name": "group",
+				"type": "text",
+				"title": "Clients group",
+				"tooltip": "Enter Phoca cart clients group ID to assign",
+				"default": "1"
+			}
+
+		]
+	}
+]

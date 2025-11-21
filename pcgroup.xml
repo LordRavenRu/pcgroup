@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="3.1" type="plugin" group="payplans" method="upgrade">
+	<name>PayPlans - Phoca Cart clients group</name>
+	<version>1.0.0</version>
+	<creationDate>20.11.2025</creationDate>
+	<author>LordRaven</author>
+	<authorEmail>contact@lordraven.ru</authorEmail>
+	<authorUrl>https://blog.lordraven.ru</authorUrl>
+	<copyright>Copyright LordRaven. All Rights Reserved.</copyright>
+	<license>http://www.gnu.org/licenses/gpl-2.0.html GNU/GPL</license>
+	<description>
+	<![CDATA[
+		Plugin to integrate PayPlans and Phoca Cart clients group
+	]]>
+	</description>
+	<files>
+		<folder>app</folder>
+		<folder>config</folder>
+		<folder>language</folder>
+		<filename plugin="pcgroup">pcgroup.php</filename>
+		<filename>pcgroup.xml</filename>
+		<filename>LICENSE.txt</filename>
+	</files>
+	<languages folder="language">
+      <language tag="en-GB">en-GB.plg_payplans_pcgroup.sys.ini</language>
+	  <language tag="ru-RU">ru-RU.plg_payplans_pcgroup.sys.ini</language>
+	</languages>
+</extension>
