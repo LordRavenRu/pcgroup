@@ -19,7 +19,7 @@
 		<folder>language</folder>
 		<filename plugin="pcgroup">pcgroup.php</filename>
 		<filename>pcgroup.xml</filename>
-		<filename>LICENSE.txt</filename>
+		<filename>LICENSE</filename>
 	</files>
 	<languages folder="language">
       <language tag="en-GB">en-GB.plg_payplans_pcgroup.sys.ini</language>
